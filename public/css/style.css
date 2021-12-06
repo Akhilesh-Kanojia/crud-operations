@@ -1,0 +1,19 @@
+body{
+    background-color: #ddd;
+    /*background-image: url("../images/movies-bg.png");
+    background-size: cover;
+    box-sizing: border-box;
+    min-height: 100vh;
+    overflow: hidden; */
+}
+
+.not-found{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
